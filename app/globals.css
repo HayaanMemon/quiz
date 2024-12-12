@@ -1,0 +1,29 @@
+
+.containers{
+  text-align: center;
+  color:  green
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+button {
+  display: inline-block;
+  font-size: 30px;
+  border : 2px solid gray;
+  margin-top: 20px;
+  background-color: green;
+  color: aliceblue;
+}
+
+body{
+
+  background-color: gainsboro;
+}
+
+
+
